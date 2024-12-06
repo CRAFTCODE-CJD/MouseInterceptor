@@ -84,11 +84,6 @@
 
 ---
 
-## **License**
-This plugin is distributed under the [Creative Commons Attribution 4.0](https://creativecommons.org/licenses/by/4.0/) license.
-
----
-
 ---
 
 # **Mouse Interceptor — Документация (RU)**
@@ -177,7 +172,3 @@ This plugin is distributed under the [Creative Commons Attribution 4.0](https://
 
 ---
 
-## **Лицензия**
-Этот плагин распространяется под лицензией [Creative Commons Attribution 4.0](https://creativecommons.org/licenses/by/4.0/). 
-
----
